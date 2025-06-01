@@ -1,2 +1,2 @@
-# demo_git_commands
+# demo git
 Using git to upload files
